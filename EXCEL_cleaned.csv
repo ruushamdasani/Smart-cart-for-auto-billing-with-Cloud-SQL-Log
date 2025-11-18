@@ -1,0 +1,61 @@
+transaction_id,cart_id,product_name,category,price,quantity,total_amount
+1,1,Milk,Dairy,30,1,30
+2,1,Bread,Bakery,25,2,50
+3,1,Eggs,Dairy,60,1,60
+4,2,Apple,Fruits,120,1,120
+5,2,Banana,Fruits,50,1,50
+6,2,Orange Juice,Beverages,80,1,80
+7,3,Rice,Grains,120,1,120
+8,3,Atta,Grains,45,1,45
+9,3,Sugar,Essentials,45,2,90
+10,4,Shampoo,Personal Care,110,1,110
+11,4,Soap,Personal Care,25,3,75
+12,4,Toothpaste,Personal Care,60,1,60
+13,5,Biscuits,Snacks,20,4,80
+14,5,Chips,Snacks,30,2,60
+15,5,Noodles,Snacks,25,2,50
+16,6,Cold Drink,Beverages,35,2,70
+17,6,Chocolate,Snacks,40,1,40
+18,6,Ice Cream,Frozen,60,1,60
+19,7,Paneer,Dairy,90,1,90
+20,7,Tomato,Vegetables,40,2,80
+21,7,Onion,Vegetables,30,1,30
+22,8,Cornflakes,Breakfast,140,1,140
+23,8,Tea,Essentials,40,1,40
+24,8,Sugar,Essentials,45,1,45
+25,9,Chicken,Meat,200,1,200
+26,9,Spices,Essentials,60,1,60
+27,9,Oils,Essentials,150,1,150
+28,10,Carrot,Vegetables,35,2,70
+29,10,Cabbage,Vegetables,30,1,30
+30,10,Potato,Vegetables,25,2,50
+31,11,Notebook,Stationery,40,2,80
+32,11,Pen,Stationery,10,5,50
+33,11,Markers,Stationery,20,2,40
+34,12,Detergent,Household,90,1,90
+35,12,Cleaner,Household,70,1,70
+36,12,Floor Freshener,Household,60,1,60
+37,13,Bread,Bakery,25,1,25
+38,13,Butter,Dairy,45,1,45
+39,13,Jam,Bakery,50,1,50
+40,14,Coffee,Beverages,70,1,70
+41,14,Tea,Beverages,40,1,40
+42,14,Milk,Dairy,30,1,30
+43,15,Shampoo,Personal Care,110,1,110
+44,15,Hair Oil,Personal Care,90,1,90
+45,15,Face Wash,Personal Care,80,1,80
+46,16,Chips,Snacks,30,3,90
+47,16,Biscuits,Snacks,20,2,40
+48,16,Soda,Beverages,35,2,70
+49,17,Chicken,Meat,200,1,200
+50,17,Eggs,Dairy,60,1,60
+51,17,Flour,Essentials,45,1,45
+52,18,Paneer,Dairy,90,1,90
+53,18,Spinach,Vegetables,30,2,60
+54,18,Cauliflower,Vegetables,35,1,35
+55,19,Frozen Peas,Frozen,70,1,70
+56,19,Ice Cream,Frozen,60,1,60
+57,19,French Fries,Frozen,90,1,90
+58,20,Cornflakes,Breakfast,140,1,140
+59,20,Honey,Breakfast,80,1,80
+60,20,Milk,Dairy,30,1,30
